@@ -1,5 +1,5 @@
 cwd := `pwd`
-theme := "MyTheme"
+theme := "Caretaker"
 
 init:
     #!/usr/bin/env bash
