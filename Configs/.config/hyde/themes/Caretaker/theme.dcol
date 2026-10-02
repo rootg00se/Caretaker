@@ -1,0 +1,157 @@
+# Caretaker
+# Yellow-olive dominant palette
+# Base colors:
+# #8B9B8E #EAD6DA #8A9FA2 #6f8579
+
+dcol_mode="dark"
+
+# ============================================================
+# GROUP 1 — Main dark olive background
+# ============================================================
+
+dcol_pry1="1B1D16"
+dcol_pry1_rgba="rgba(27,29,22,1)"
+
+dcol_txt1="D9D7C3"
+dcol_txt1_rgba="rgba(217,215,195,1)"
+
+dcol_1xa1="25271C"
+dcol_1xa1_rgba="rgba(37,39,28,1)"
+
+dcol_1xa2="303322"
+dcol_1xa2_rgba="rgba(48,51,34,1)"
+
+dcol_1xa3="3C4028"
+dcol_1xa3_rgba="rgba(60,64,40,1)"
+
+dcol_1xa4="555A32"
+dcol_1xa4_rgba="rgba(85,90,50,1)"
+
+dcol_1xa5="6D713F"
+dcol_1xa5_rgba="rgba(109,113,63,1)"
+
+dcol_1xa6="EAD6DA"
+dcol_1xa6_rgba="rgba(234,214,218,1)"
+
+dcol_1xa7="6f8579"
+dcol_1xa7_rgba="rgb(111, 133, 121)"
+
+dcol_1xa8="EAD6DA"
+dcol_1xa8_rgba="rgba(234,214,218,1)"
+
+dcol_1xa9="D9D7C3"
+dcol_1xa9_rgba="rgba(217,215,195,1)"
+
+
+# ============================================================
+# GROUP 2 — Secondary surface
+# ============================================================
+
+dcol_pry2="2B2D1F"
+dcol_pry2_rgba="rgba(43,45,31,1)"
+
+dcol_txt2="D9D7C3"
+dcol_txt2_rgba="rgba(217,215,195,1)"
+
+dcol_2xa1="1B1D16"
+dcol_2xa1_rgba="rgba(27,29,22,1)"
+
+dcol_2xa2="25271C"
+dcol_2xa2_rgba="rgba(37,39,28,1)"
+
+dcol_2xa3="373A26"
+dcol_2xa3_rgba="rgba(55,58,38,1)"
+
+dcol_2xa4="4B5030"
+dcol_2xa4_rgba="rgba(75,80,48,1)"
+
+dcol_2xa5="62683A"
+dcol_2xa5_rgba="rgba(98,104,58,1)"
+
+dcol_2xa6="7A7E45"
+dcol_2xa6_rgba="rgba(122,126,69,1)"
+
+dcol_2xa7="EAD6DA"
+dcol_2xa7_rgba="rgba(234,214,218,1)"
+
+dcol_2xa8="9B9A62"
+dcol_2xa8_rgba="rgba(155,154,98,1)"
+
+dcol_2xa9="B8B584"
+dcol_2xa9_rgba="rgba(184,181,132,1)"
+
+
+# ============================================================
+# GROUP 3 — Main yellow-olive accent
+# ============================================================
+
+dcol_pry3="EAD6DA"
+dcol_pry3_rgba="rgba(234,214,218,1)"
+
+dcol_txt3="1B1D16"
+dcol_txt3_rgba="rgba(27,29,22,1)"
+
+dcol_3xa1="1B1D16"
+dcol_3xa1_rgba="rgba(27,29,22,1)"
+
+dcol_3xa2="2B2D1F"
+dcol_3xa2_rgba="rgba(43,45,31,1)"
+
+dcol_3xa3="3C4028"
+dcol_3xa3_rgba="rgba(60,64,40,1)"
+
+dcol_3xa4="555A32"
+dcol_3xa4_rgba="rgba(85,90,50,1)"
+
+dcol_3xa5="6D713F"
+dcol_3xa5_rgba="rgba(109,113,63,1)"
+
+dcol_3xa6="6f8579"
+dcol_3xa6_rgba="rgba(111,133,121,1)"
+
+dcol_3xa7="8B9B8E"
+dcol_3xa7_rgba="rgba(139,155,142,1)"
+
+dcol_3xa8="EAD6DA"
+dcol_3xa8_rgba="rgba(234,214,218,1)"
+
+dcol_3xa9="D9D7C3"
+dcol_3xa9_rgba="rgba(217,215,195,1)"
+
+
+# ============================================================
+# GROUP 4 — Moss-green accent
+# ============================================================
+
+dcol_pry4="3d4745"
+dcol_pry4_rgba="rgb(61, 71, 69)"
+
+dcol_txt4="EAD6DA"
+dcol_txt4_rgba="rgba(234, 214, 218,1)"
+
+dcol_4xa1="EAD6DA"
+dcol_4xa1_rgba="rgba(234, 214, 218,1)"
+
+dcol_4xa2="2B2D1F"
+dcol_4xa2_rgba="rgba(43,45,31,1)"
+
+dcol_4xa3="373A26"
+dcol_4xa3_rgba="rgba(55,58,38,1)"
+
+dcol_4xa4="4B5030"
+dcol_4xa4_rgba="rgba(75,80,48,1)"
+
+dcol_4xa5="62683A"
+dcol_4xa5_rgba="rgba(98,104,58,1)"
+
+dcol_4xa6="EAD6DA"
+dcol_4xa6_rgba="rgba(234,214,218,1)"
+
+dcol_4xa7="8B9B8E"
+dcol_4xa7_rgba="rgba(139,155,142,1)"
+
+dcol_4xa8="EAD6DA"
+dcol_4xa8_rgba="rgba(234,214,218,1)"
+
+dcol_4xa9="D9D7C3"
+dcol_4xa9_rgba="rgba(217,215,195,1)"
