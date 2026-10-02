@@ -7,3 +7,39 @@ $COLOR_SCHEME = prefer-dark
 
 $CURSOR_THEME = Gruvbox-Retro
 $CURSOR_SIZE = 20
+
+general {
+    gaps_in = 3
+    gaps_out = 8
+    border_size = 2
+    col.active_border = rgba(6f8579ff)
+    col.inactive_border = rgba(35403aff)
+    layout = dwindle
+    resize_on_border = true
+}
+
+group {
+    col.border_active = rgba(90ceaaff) rgba(ecd3a0ff) 45deg
+    col.border_inactive = rgba(86aaeccc) rgba(93cee9cc) 45deg
+    col.border_locked_active = rgba(90ceaaff) rgba(ecd3a0ff) 45deg
+    col.border_locked_inactive = rgba(86aaeccc) rgba(93cee9cc) 45deg
+}
+
+decoration {
+    rounding = 5
+    shadow:enabled = false
+
+    active_opacity = 0.95
+    inactive_opacity = 0.90
+
+    blur {
+        enabled = yes
+        size = 5
+        passes = 2
+        new_optimizations = on
+        ignore_opacity = on
+        xray = false
+    }
+}
+
+layerrule = unset,waybar
